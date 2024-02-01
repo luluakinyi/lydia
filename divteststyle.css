@@ -1,0 +1,175 @@
+*.navbar2{ width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    background-color: #11ef11;
+    text-decoration: chocolate;
+}
+.logo2{
+    text-align: center;
+    text-decoration:none;
+
+}
+nav{
+    text-decoration: deeppink;
+}
+header ul li a:hover{
+    font-size: 18px;
+    font-weight:1000;
+    color: pink;
+    padding: 6px 0;
+    text-decoration: beige;
+}
+h2{
+    text-align: center;
+    text-decoration: chocolate;
+}
+.home {
+    width: 100%;
+    height: 100vh;
+    background-image: url("nat4.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed ;
+    font-family: sans-serif;
+
+}
+.home .home-content{ margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+    height: 100%;
+    margin: auto;}
+.home .text1 {
+    font-size: larger;
+    color: deeppink;
+
+}
+.home .text2{
+    font-size: 65px;
+    color: magenta;
+    font-weight: 600;
+    margin-left: -3px;
+}
+.home .text3{
+    font-size: 40px;
+    margin: 5px 0;
+    color: mediumpurple;
+}
+.home .text4{
+    font-size: small;
+    margin: auto;
+    color: pink;
+}
+.home button{
+    margin: 14px;
+}
+.home .button button{
+    padding: 16px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: burlywood;
+    color: crimson;
+    cursor: pointer;
+    border: 2px salmon;
+}
+.home .button button:hover{
+    border-color: brown;
+    background-color: beige;
+    color: rosybrown;
+}
+.about{
+    text-align: center;
+    background-image: url("img.png");
+     width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed ;
+    font-family: sans-serif;
+}
+.about .about-content{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    color: white;
+}
+.about .about-content button{
+     padding: 16px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

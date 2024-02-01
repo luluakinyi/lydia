@@ -1,0 +1,46 @@
+h2
+{color: deeppink;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 32px}
+p{ color: cadetblue;
+    margin: 20px;
+    text-align: center;
+text-size-adjust: 22px}
+.navbar{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    background-color: #11ef11;
+}
+.navbar .logo a:hover
+{ font-size: 35px;
+font-size: larger;
+color: deepskyblue;
+
+    text-decoration: underline}
+.navbar .menu{
+
+    display: flex;
+    position: relative;
+
+}
+.navbar .menu a{
+    font-size: 18px;
+    font-weight: 500;
+    color: pink;
+    padding: 6px 0;
+    text-decoration: none;
+}
+.navbar .menu a:hover{
+    color: burlywood;
+
+}
+.navbar .menu{
+     list-style: none;
+    margin: 10px 8px;
+}
+
+
